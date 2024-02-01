@@ -10,3 +10,5 @@ please wrokd
 
 [![Releases](https://img.shields.io/github/release/<AbbieAirlie>/sem/all.svg?style=flat-square)](https://github.com/<AbbieAirlie>/sem/releases)
 
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/<username>/<repository>/<action file name>.yml?branch=<branch>)
